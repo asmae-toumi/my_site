@@ -1,8 +1,8 @@
 ---
 output: hugodown::md_document
 title: Home
-summary: "Calade: A Hugo theme and R package by Danielle Navarro"
-rmd_hash: b0a228e118689a09
+summary: "Asmae's website"
+rmd_hash: c846014b5a2216b6
 
 ---
 
