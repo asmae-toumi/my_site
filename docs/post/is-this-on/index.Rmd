@@ -1,0 +1,20 @@
+---
+output: hugodown::md_document
+title: "Is this on?"
+summary: "testing"
+author: "Asmae Toumi"
+tags: []
+date: 2020-07-26
+---
+
+# Hello.
+
+I had to use another computer to do this after spending an entire night fighting pandoc. pandoc, if you're listening, i hate you. what in the hell is "error of type 1"?
+
+Anyway, let's test this out:
+
+```{r}
+2+2
+```
+
+Quick maths!

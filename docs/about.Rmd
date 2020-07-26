@@ -1,0 +1,10 @@
+---
+output: hugodown::md_document
+title: About
+type: "generic_page"
+summary: "Caladown: A Hugo theme and R package by Danielle Navarro"
+---
+
+# About me
+
+I'm EIC of a Hockey-Graphs and also a professional data clown
