@@ -2,7 +2,7 @@
 output: hugodown::md_document
 title: About
 type: "generic_page"
-summary: "Caladown: A Hugo theme and R package by Danielle Navarro"
+summary: "Asmae's website"
 ---
 
 # About me
